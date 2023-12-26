@@ -1,31 +1,22 @@
-### Halo 👋, Nama saya Fuad AZKA
-#### Saya Publisher github profile
-![Saya Publisher github profile](https://avatars1.githubusercontent.com/u/75873661?s=460&u=f765e2a7d9a5557ff71a10fe6c6bd42027a614c2&v=4)
+<h3 align="center">fuadazkartx || Fuad Azka Rtx</h3>
 
-Saya Penyuka source code dan saya seorang web design
+![](https://user-images.githubusercontent.com/38845275/128774296-40a55843-1893-44e6-936e-5e71c7cf72de.png)
 
-Skills: javascript
+---
 
-- 🔭 Saya sedang mengerjakan Project bot telegram 
-- 🌱 Saya sedang belajar javascript 
-- 👯 Saya ingin berkolaborasi fuadrtx 
-- 💬 Tanya saya tentang your gmail.com 
-- 📫 Bagaimana cara menghubungi saya: email me 
-- ⚡ Fakta menyenangkan: saya penyuka makanan 
+<h3 align="center">
+  Welcome to fuadazkartx' profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fuadazkartx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fuadrtx/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/fuadrtx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobelightroomcc.svg' alt='adobelightroomcc' height='40'>](dddffff)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fifa.svg' alt='fifa' height='40'>](azka)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- DATE: 2023-12-27 03:30:14.226311
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fuadazkartx)](https://github.com/ryo-ma/github-profile-trophy)
+[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuadazkartx)](https://github.com/anuraghazra/github-readme-stats)
+[<img align="left" width="30%"   alt="🦑" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=fuadazkartx&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866%22%20height=%22192px">](#)
+[<img align="center" width="35%" alt="🦑" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadazkartx&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook">](#)
+[<img align="right" width="30%" alt="🦑" src="https://github-readme-streak-stats.herokuapp.com/?user=fuadazkartx&theme=monokai-metallian&hide_border=true">](#)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fuadazkartx&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/fuadazkartx)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fuadazkartx)  
-
-![Profile views](https://gpvc.arturio.dev/fuadazkartx)  
+[<img align="center" width="100%" alt="🦑" src="https://github-readme-activity-graph.vercel.app/graph/?username=fuadazkartx&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">](#)
